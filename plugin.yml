@@ -1,0 +1,5 @@
+name: Punishment
+version: 1.0.0
+author: VernoxMC
+api: ["1.0.0"]
+main: VernoxMC.Punishment.Main
