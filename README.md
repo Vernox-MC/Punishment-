@@ -3,7 +3,7 @@ BanSystem for Nukkit
 
 # Commands:
 
-/ban - Bans a player from the Server
+/ban - Perm bans a player from the Server
 Permission: punishment.ban
 
 /banip - Bans ip of a plyer from the server
